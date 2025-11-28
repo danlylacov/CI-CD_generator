@@ -6,17 +6,17 @@ CLI приложение для автоматического анализа т
 
 Команда: **Back2Back**
 
-**Участики:**
+### Участики:
 
-Лулаков Даниил - Dev-ops, Team-Lead
+**Лулаков Даниил** - Dev-ops, Team-Lead
 
-Гезенцвей Виктор - Project Manager, Architect, Designer
+**Гезенцвей Виктор** - Project Manager, Architect, Designer
 
-Колесникова Лариса - Dev-ops, QA
+**Колесникова Лариса** - Dev-ops, QA
 
-Беляев Валерий - Buisnes Analiticts
+**Беляев Валерий** - Buisnes Analiticts
 
-Сорокина Полина - AI
+**Сорокина Полина** - AI
 
 ## Структура проекта
 
